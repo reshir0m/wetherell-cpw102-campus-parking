@@ -2,9 +2,9 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team members:** Owen Wetherell
 
-**Date:**
+**Date:** 30 September 2026
 
 ## User and problem
 
